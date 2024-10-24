@@ -1,0 +1,15 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sun"
+  given-names: "Quantao"
+title: "smiles_to_structures"
+version: 0.0.1
+date-released: 2024-7-24
+repository-code: https://github.com/quantaosun/Smiles_to_Structure
+keywords:
+  - "rdkit"
+  - "jupyter notebook"
+  - "smiles structure"
+license: MIT
+url: https://github.com/quantaosun/Smiles_to_Structure
