@@ -7,9 +7,6 @@ This script reads a list of SMILES (Simplified Molecular Input Line Entry System
 
 Tutorial:
 1. Generate a csv file, for example, for a specific protein target, you can download a csv file from Chembl database
-
- <img width="1361" alt="image" src="https://github.com/quantaosun/Smiles_to_Structure/assets/75652473/3cf5a98c-b25b-46a1-b4b1-16836ccd92c2">
-
  
 2. Open this csv file with your excel or Mac number software, export it to csv again, since the downloaded csv may have some minor format issue not recognised by this code.
 
